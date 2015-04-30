@@ -90,6 +90,6 @@ echo -e "\n Installing Basic6 components..."
 
 
 
-python basic6/b6-install.pyc > basic6/b6-install.log
+#python basic6/b6-install.pyc > basic6/b6-install.log
 
 echo -e "\n Success!"
